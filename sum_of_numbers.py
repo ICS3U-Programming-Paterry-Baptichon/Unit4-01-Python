@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# created by: Ryan Walsh
-# created on: December 2020
+# created by: paterry.BJ
+# created on: 2022-04-21
 # this program shows the sum of all positive numbers from 0 to number entered
 
 
